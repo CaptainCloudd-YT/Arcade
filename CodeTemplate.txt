@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//CHANGE ME: Add your name
+League of Legends
+Henry Chen
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (teemo use q) {
+    blind = true;
 } else {
-    //Add event below
+    blind = false;
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (teemo use r) {
+    poison = true;
 } else {
-    //Add event below
+    poison = false;
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if ([player choose teemo]) {
+    player = banned;
 } else {
-    //Add event below
+    player = notbanned;
 }
 
-
+//in summary, don't play the RAT
